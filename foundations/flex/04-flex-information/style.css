@@ -28,7 +28,6 @@ img {
 }
 .container {
   display: flex;
-  align-items: center;
   justify-content: center;
   gap: 52px;
 }
@@ -41,7 +40,6 @@ img {
   flex-wrap: wrap;
   flex: 0 1 200px;
 }
-.text,
-.img {
+.text {
   text-align: center;
 }
